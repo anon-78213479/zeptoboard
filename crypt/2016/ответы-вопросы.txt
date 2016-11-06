@@ -1,0 +1,7 @@
+криптоанархических ответов-вопросов тред
+как не спалить свой айпи в гитхабе?
+
+--
+
+ставь расширение которое блокирует внешние ресурсы, например ScriptSafe:
+https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en
