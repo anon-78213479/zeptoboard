@@ -5,3 +5,7 @@
 
 ставь расширение которое блокирует внешние ресурсы, например ScriptSafe:
 https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en
+
+--
+
+на самом деле только что проверил и обнаружил, что github перезаливает внешние картинки на свой сервер так что логгер айпишников в том же issues не получится встроить, можно не заморачиваться со scriptsafe
